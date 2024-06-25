@@ -22,7 +22,7 @@ const Sidebar = () => {
         }, 
         {icon: <Avatar size={"sm"} name='Kuromi' src='sanrio-pfp.jpg'/>,
         text: "Profile",
-        link: "/asaprogrammer",
+        link: "/jessica_huang",
         }, 
     
     ];
